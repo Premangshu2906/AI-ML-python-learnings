@@ -1,0 +1,5 @@
+c=float(input("Enter the temperature in celcius "))
+fahrenheit=float(c*(9/5)+32)
+kelvin=float(c+273.15)
+print("Output:\nFahrenheit= ",fahrenheit, "\nKelvin",kelvin)
+#print(" Kelvin",kelvin)
